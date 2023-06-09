@@ -49,11 +49,11 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
 		{% endif %}
+      {% if author.notion %}
+        <li><a href="{{ author.notion }}"><i class="fas fa-fw fa-sticky-note"></i> Short Intro</a></li>
+		{% endif %}
       {% if author.blog %}
         <li><a href="{{ author.blog }}"><i class="fas fa-fw fa-book-open"></i> Personal Blog</a></li>
-		{% endif %}
-      {% if author.notion %}
-        <li><a href="{{ author.notion }}"><i class="fas fa-fw fa-sticky-note"></i> Single-page Intro</a></li>
 		{% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
