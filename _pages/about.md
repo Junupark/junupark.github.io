@@ -8,33 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-hihi
+I am a Ph.D. candidate in the Department of Aerospace Engineering (AE) at Korea Advanced Institute of Science and Technology (KAIST). Adviced by Professor Hyochoong Bang, I am expected to receive my Ph.D. degree in aerospace engineering at KAIST in 2024. The dissertation title is "A Study on Robust Particle Filtering in Terrain-referenced Navigation." I received my M.S. degree in AE at KAIST in 2018, and B.S. degree in AE at KAIST in 2016. I am interested in SOMETHING. 
+
+My current research focuses on 
+	* SOMETHING-SPECIFIC1
+	* SOMETHING-ELSE
+	* HAHA
+	
 
 
-Heading 1
+News
 ======
-text 1
-
-
-Heading 1 (2)
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-
-Heading 2
-------
-* asdf
-- fff
+* N1
+- N2
 
 
 For more info
-------
-yay
+=====
 * ya
 	* hh
 * uyay
