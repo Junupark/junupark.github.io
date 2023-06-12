@@ -11,22 +11,22 @@ redirect_from:
 I am a Ph.D. candidate in the Department of Aerospace Engineering (AE) at Korea Advanced Institute of Science and Technology (KAIST). Adviced by Professor Hyochoong Bang, I am expected to receive my Ph.D. degree in aerospace engineering at KAIST in 2024. The dissertation title is "A Study on Robust Particle Filtering in Terrain-referenced Navigation." I received my M.S. degree in AE at KAIST in 2018, and B.S. degree in AE at KAIST in 2016. I am interested in SOMETHING. 
 
 My current research focuses on 
-	* SOMETHING-SPECIFIC1
-	* SOMETHING-ELSE
-	* HAHA
-	
+* Navigation under GNSS-denied situation
+	* Database-referenced navigation: vision-based and terrain-referenced navigation
+	* Nonlinear State Estimation using Particle Filtering
+* Active Sensing
 
 
-News
+<!-- News
 ======
-* N1
-- N2
+- News1
+- News2
+ -->
 
-
-For more info
+<!-- For more info
 =====
 * ya
 	* hh
 * uyay
 	1. 33
-	2. ddd
+	2. ddd -->
